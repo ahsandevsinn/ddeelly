@@ -1,0 +1,2 @@
+/Users/ahsankhan/Downloads/ddeelly 2/android/app/.cxx/RelWithDebInfo/291sz6d2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/ahsankhan/Downloads/ddeelly 2/android/app/.cxx/RelWithDebInfo/291sz6d2/armeabi-v7a/CMakeFiles/edit_cache.dir
